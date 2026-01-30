@@ -250,7 +250,7 @@ Creates a striped effect for better readability
 
 ## 12. Key Learning Points
 
-### ✅ What Students Should Understand:
+### ✅ What you Should Understand:
 
 1. **HTML Attributes** - Add properties to elements (bgcolor, width, align, etc.)
 2. **Tables for Layout** - Use nested tables to create page structure
