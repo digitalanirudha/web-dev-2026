@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anirudha D.- Portfolio</title>
+</head>
+<body bgcolor="#E8E8E8" text="#333333">
+    
+    <table width="80%" align="center" cellpadding="20" bgcolor="#F5F5F5" border="0">
+        <tr>
+            <td>
+                
+                <!-- Header Section -->
+                <table width="100%" cellpadding="15" bgcolor="#4A90E2" border="0">
+                    <tr>
+                        <td align="center">
+                            <font size="7" color="white" face="Arial, sans-serif">
+                                <b>Anirudha D.</b>
+                            </font>
+                            <br>
+                            <font size="4" color="#E0E0E0" face="Arial, sans-serif">
+                                <i>Full Stack Developer | REST API | Tech Enthusiast</i>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- About Me Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td>
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>About Me</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <font size="3" face="Georgia, serif">
+                                I am a <b>passionate developer</b> with <font color="#4A90E2"><b>5+ years</b></font> of experience in building web applications. I specialize in HTML, CSS, JavaScript, and backend technologies.
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Skills Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td>
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>Skills</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">
+                                <ul>
+                                    <li><b>HTML5 & CSS3</b></li>
+                                    <li><b>JavaScript</b></li>
+                                    <li><b>React & Vue.js</b></li>
+                                    <li><b>Node.js & Express</b></li>
+                                    <li><b>MongoDB & MySQL</b></li>
+                                    <li><b>Git & GitHub</b></li>
+                                </ul>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Experience Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td colspan="3">
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>Experience</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#7AB8E8" align="center">
+                        <td width="35%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Position</b>
+                            </font>
+                        </td>
+                        <td width="40%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Company</b>
+                            </font>
+                        </td>
+                        <td width="25%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Duration</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#F9F9F9">
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Senior Engineer</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Tech Solutions Inc.</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">2024 - Present</font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Senior Developer</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Digital Innovations</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">2023 - 2024</font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#F9F9F9">
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Junior Developer</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">StartUp Co.</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">2021 - 2023</font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Projects Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td>
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>Projects</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <font size="4" color="#4A90E2" face="Arial, sans-serif">
+                                <b>Project 1: E-Commerce Website</b>
+                            </font>
+                            <br><br>
+                            <font size="3" face="Georgia, serif">
+                                Built a fully functional e-commerce platform with product listings, cart management, and payment integration.
+                            </font>
+                            <ul>
+                                <li><font size="3" face="Arial, sans-serif"><b>Technologies:</b> React, Node.js, MongoDB</font></li>
+                                <li><font size="3" face="Arial, sans-serif"><b>Timeline:</b> 6 months</font></li>
+                            </ul>
+                            
+                            <hr color="#CCCCCC">
+                            
+                            <font size="4" color="#4A90E2" face="Arial, sans-serif">
+                                <b>Project 2: Blog Platform</b>
+                            </font>
+                            <br><br>
+                            <font size="3" face="Georgia, serif">
+                                Developed a blogging platform with user authentication and content management features.
+                            </font>
+                            <ul>
+                                <li><font size="3" face="Arial, sans-serif"><b>Technologies:</b> HTML, CSS, JavaScript, Express</font></li>
+                                <li><font size="3" face="Arial, sans-serif"><b>Timeline:</b> 3 months</font></li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Education Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td colspan="3">
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>Education</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#7AB8E8" align="center">
+                        <td width="40%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Degree</b>
+                            </font>
+                        </td>
+                        <td width="40%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Institution</b>
+                            </font>
+                        </td>
+                        <td width="20%">
+                            <font size="3" color="white" face="Arial, sans-serif">
+                                <b>Year</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#F9F9F9">
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Bachelor in Computer Application</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Mumbai University</font>
+                        </td>
+                        <td align="center">
+                            <font size="3" face="Arial, sans-serif">2018</font>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#FFFFFF">
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Master in Computer Application</font>
+                        </td>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">Pune University</font>
+                        </td>
+                        <td align="center">
+                            <font size="3" face="Arial, sans-serif">2021</font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Contact Section -->
+                <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
+                    <tr bgcolor="#5A9FD4">
+                        <td>
+                            <font size="5" color="white" face="Arial, sans-serif">
+                                <b>Contact</b>
+                            </font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <font size="3" face="Arial, sans-serif">
+                                <b>Email:</b> <font color="#4A90E2">anirudhad@example.com</font>
+                            </font>
+                            <br><br>
+                            <font size="3" face="Arial, sans-serif">
+                                <b>Phone:</b> <font color="#4A90E2">+1 (555) 123-4567</font>
+                            </font>
+                            <br><br>
+                            <font size="3" face="Arial, sans-serif">
+                                <b>Location:</b> <font color="#4A90E2">Madhya Pradesh, India</font>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <!-- Footer -->
+                <table width="100%" cellpadding="10" bgcolor="#4A90E2" border="0">
+                    <tr>
+                        <td align="center">
+                            <font size="2" color="white" face="Arial, sans-serif">
+                                &copy; 2026 Anirudha D. All rights reserved.
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+                
+            </td>
+        </tr>
+    </table>
+    
+</body>
+</html>
