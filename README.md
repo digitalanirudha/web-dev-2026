@@ -12,8 +12,6 @@ GitHub Folder : https://github.com/digitalanirudha/web-dev-2026/tree/main/html
 
 # Learning Summary
 
-# HTML Portfolio Page - Learning Summary
-
 ## Overview
 This portfolio page is created using **ONLY HTML** - no CSS is used. We make it attractive using HTML attributes and table-based layout.
 
