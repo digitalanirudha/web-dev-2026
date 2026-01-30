@@ -78,7 +78,7 @@ Tables create a structured layout without CSS. Each section is placed in table r
 ## 4. Font Tag - Styling Text
 
 ```html
-<font size="7" color="white" face="Arial, sans-serif">
+<font size="7" color="white" face="Calibri, sans-serif">
     <b>Anirudha D.</b>
 </font>
 ```
@@ -86,7 +86,7 @@ Tables create a structured layout without CSS. Each section is placed in table r
 **Font attributes:**
 - `size` - Text size (1-7, where 7 is largest)
 - `color` - Text color (can use names like "white" or hex codes like "#4A90E2")
-- `face` - Font family (Arial, Georgia, etc.)
+- `face` - Font family (Calibri, Calibri, etc.)
 
 **Common sizes used in this page:**
 - Size 7 - Main heading (name)
@@ -140,7 +140,7 @@ Tables create a structured layout without CSS. Each section is placed in table r
 <table width="100%" cellpadding="15" bgcolor="#FFFFFF" border="1" bordercolor="#CCCCCC">
     <tr bgcolor="#5A9FD4">
         <td>
-            <font size="5" color="white" face="Arial, sans-serif">
+            <font size="5" color="white" face="Calibri, sans-serif">
                 <b>About Me</b>
             </font>
         </td>
@@ -165,7 +165,7 @@ Tables create a structured layout without CSS. Each section is placed in table r
 ```html
 <tr bgcolor="#7AB8E8" align="center">
     <td width="35%">
-        <font size="3" color="white" face="Arial, sans-serif">
+        <font size="3" color="white" face="Calibri, sans-serif">
             <b>Position</b>
         </font>
     </td>
@@ -222,7 +222,7 @@ Creates a striped effect for better readability
     <!-- Blue header row -->
     <tr bgcolor="#5A9FD4">
         <td>
-            <font size="5" color="white" face="Arial, sans-serif">
+            <font size="5" color="white" face="Calibri, sans-serif">
                 <b>Contact</b>
             </font>
         </td>
