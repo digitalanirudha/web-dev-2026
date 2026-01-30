@@ -485,24 +485,25 @@ name="viewport"       - Viewport settings
 ---
 
 ## 17. Code Quality Analysis
+Why this is important to understand because HTML limitations needs to be understood and Why to use Modern CSS.
 
 ### Strengths
-✓ Consistent indentation and formatting
-✓ Descriptive HTML comments for each section
-✓ Logical nesting structure
-✓ Proper closing of all tags
-✓ Coherent color scheme throughout
-✓ Alternating row colors for readability
-✓ Reusable section pattern
+✓ Consistent indentation and formatting<br>
+✓ Descriptive HTML comments for each section<br>
+✓ Logical nesting structure<br>
+✓ Proper closing of all tags<br>
+✓ Coherent color scheme throughout<br>
+✓ Alternating row colors for readability<br>
+✓ Reusable section pattern<br>
 
 ### Weaknesses
-✗ Repetitive font tag usage (DRY principle violated)
-✗ Inline attributes make maintenance difficult
-✗ No separation of concerns (structure + style mixed)
-✗ Not mobile-responsive
-✗ Accessibility issues (no semantic markup)
-✗ Uses deprecated HTML elements
-✗ Hard to scale for larger websites
+✗ Repetitive font tag usage (DRY principle violated) <br>
+✗ Inline attributes make maintenance difficult <br>
+✗ No separation of concerns (structure + style mixed) <br>
+✗ Not mobile-responsive <br>
+✗ Accessibility issues (no semantic markup) <br>
+✗ Uses deprecated HTML elements <br>
+✗ Hard to scale for larger websites <br>
 
 ---
 
